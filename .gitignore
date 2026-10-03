@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+# Additional Safety Rules
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
